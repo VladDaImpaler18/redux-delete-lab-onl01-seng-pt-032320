@@ -1,0 +1,1 @@
+//This displays the bands. In List form. Also passes deleteFunction down as prop
